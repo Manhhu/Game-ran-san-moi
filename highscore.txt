@@ -1,0 +1,5 @@
+manh 1150
+an 1000
+vanh 970
+phuong 800
+tam 720
